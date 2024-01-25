@@ -69,7 +69,7 @@
             ],
             "time": "5min to run",
             "configuration": "Ready for debug",
-            "thumbnailPath": "assets/thumbnail.png",
+            "thumbnailPath": "assets/taskpane.png",
             "gifPath": "assets/sampleDemo.gif",
             "suggested": false
         }
