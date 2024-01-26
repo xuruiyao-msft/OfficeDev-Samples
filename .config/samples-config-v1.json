@@ -1,15 +1,15 @@
 {
     "filterOptions": {
         "capabilities": [
-            "Word-AI-Assistant",
-            "Word-AIGC"
+            "AI-Assistant",
+            "AIGC"
         ],
         "languages": [
             "TS",
             "JS"
         ],
         "technologies": [
-            "Office Add in"
+            "Office Add-in"
         ]
     },
     "samples": [
