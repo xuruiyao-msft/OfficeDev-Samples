@@ -25,7 +25,8 @@
             ],
             "tags": [
                 "TS",
-                "AI-Assistant"
+                "AI-Assistant",
+                "Office Add-in"
             ],
             "time": "5min to run",
             "configuration": "Ready for debug",
@@ -45,7 +46,8 @@
             ],
             "tags": [
                 "TS",
-                "AIGC"
+                "AIGC",
+                "Office Add-in"
             ],
             "time": "5min to run",
             "configuration": "Ready for debug",
